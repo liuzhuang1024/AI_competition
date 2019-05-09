@@ -1,2 +1,21 @@
 # AI_competition
 有关国内外的AI以及大数据的平台
+http://www.vision.ee.ethz.ch/ntire19/)
+https://competitions.codalab.org/my/
+http://icdar2019.org/competitions-2/
+https://ai.ixm.gov.cn/
+http://www.icme2019.org/conf_challenges
+https://icme19inpainting.github.io/
+https://www.datafountain.cn/
+https://tianchi.aliyun.com/home/
+https://www.flyai.com/
+https://algo.qq.com/application/home/home/index.html
+https://www.kaggle.com/
+https://leetcode-cn.com/problemset/all/
+https://biendata.com/
+https://arena.net9.org/
+http://challenge.zte.net/suanfa.php?mod=home
+https://www.datafountain.cn/projects/2019teda/
+https://chinaai.sf.ucloud.cn/login
+https://sites.google.com/view/fgvc6/home
+https://www.kesci.com/
